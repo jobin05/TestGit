@@ -15,5 +15,9 @@ namespace TestGit
         public void test()
         {
         }
+        public void MyBranch(string st)
+        {
+            //test this
+        }
     }
 }
